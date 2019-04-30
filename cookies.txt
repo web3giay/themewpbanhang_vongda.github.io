@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/banhang-vongda/	FALSE	1999999999	woocommerce_items_in_cart	1
+localhost	TRUE	/banhang-vongda/	FALSE	1999999999	wp_woocommerce_session_3c0edc2a3b3238c1467775a7bf0f91e6	c87e61235c6eb2e466c4ef47f3b396cb%7C%7C1556782622%7C%7C1556779022%7C%7C6b11a708edd12948a51b32e8be82cc18
+localhost	TRUE	/banhang-vongda/	FALSE	1999999999	woocommerce_cart_hash	1eb463e88c49c27b80500cf1f0eae02b
+

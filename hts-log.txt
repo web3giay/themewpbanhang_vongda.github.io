@@ -1,0 +1,135 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 30 Apr 2019 14:34:58 at http://localhost/banhang-vongda/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/banhang-vongda/ -O1 "D:\banhang-vongda" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:47:37	Error: 	"Forbidden" (403) at link https://4.bp.blogspot.com/-eMP1KEh-KHE/XI3KfN12P6I/AAAAAAAATHQ/OTSqSxKbeJIi1eVPK1ExEzAdZTbpWBoLQCPcBGAYYCw/s1600/tro-chuot-1.png (from localhost/banhang-vongda/wp-content/themes/denled-web3giay/style1.css)
+14:47:37	Error: 	"Not Found" (404) at link localhost/banhang-vongda/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:47:37	Error: 	"Forbidden" (403) at link localhost/banhang-vongda/^([^:/? (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:47:37	Error: 	"Not Found" (404) at link localhost/banhang-vongda/GET (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:48:16	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=137
+14:48:16	Warning: 	File has moved from localhost/banhang-vongda/?p=137 to http://localhost/banhang-vongda/lien-he/
+14:48:18	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=7
+14:48:18	Warning: 	File has moved from localhost/banhang-vongda/?p=7 to http://localhost/banhang-vongda/gio-hang/
+14:48:18	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=105
+14:48:18	Warning: 	File has moved from localhost/banhang-vongda/?p=105 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-001/
+14:48:21	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-001%2F (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-001/)
+14:48:21	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-001%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-001/)
+14:48:40	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=106
+14:48:40	Warning: 	File has moved from localhost/banhang-vongda/?p=106 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-002/
+14:48:40	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-002%2F (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-002/)
+14:48:40	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-002%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-002/)
+14:48:49	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=107
+14:48:49	Warning: 	File has moved from localhost/banhang-vongda/?p=107 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-003/
+14:48:52	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-003%2F (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-003/)
+14:48:52	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-003%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-003/)
+14:49:02	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=108
+14:49:02	Warning: 	File has moved from localhost/banhang-vongda/?p=108 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-003-2/
+14:49:06	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-003-2%2F (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-003-2/)
+14:49:06	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-003-2%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-003-2/)
+14:49:21	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=109
+14:49:21	Warning: 	File has moved from localhost/banhang-vongda/?p=109 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-004/
+14:49:21	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-004%2F (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-004/)
+14:49:21	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-004%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-004/)
+14:49:37	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=110
+14:49:37	Warning: 	File has moved from localhost/banhang-vongda/?p=110 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-005/
+14:49:37	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-005%2F (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-005/)
+14:49:37	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-005%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-005/)
+14:49:53	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=111
+14:49:53	Warning: 	File has moved from localhost/banhang-vongda/?p=111 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-006/
+14:49:54	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-006%2F (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-006/)
+14:49:54	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-006%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-006/)
+14:50:10	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=112
+14:50:10	Warning: 	File has moved from localhost/banhang-vongda/?p=112 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-007/
+14:50:14	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-007%2F (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-007/)
+14:50:14	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-007%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-007/)
+14:50:27	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=95
+14:50:27	Warning: 	File has moved from localhost/banhang-vongda/?p=95 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-004/
+14:50:29	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-004%2F (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-004/)
+14:50:29	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-004%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-004/)
+14:50:42	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=93
+14:50:42	Warning: 	File has moved from localhost/banhang-vongda/?p=93 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k02/
+14:50:42	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k02%2F (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k02/)
+14:50:42	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k02%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k02/)
+14:50:56	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=94
+14:50:56	Warning: 	File has moved from localhost/banhang-vongda/?p=94 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k03/
+14:50:59	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k03%2F (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k03/)
+14:50:59	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k03%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k03/)
+14:51:10	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=96
+14:51:10	Warning: 	File has moved from localhost/banhang-vongda/?p=96 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/96/
+14:51:13	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2F96%2F (from localhost/banhang-vongda/sản phẩm/96/)
+14:51:13	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2F96%2F&format=xml (from localhost/banhang-vongda/sản phẩm/96/)
+14:51:27	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=98
+14:51:27	Warning: 	File has moved from localhost/banhang-vongda/?p=98 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k06/
+14:51:29	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k06%2F (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k06/)
+14:51:29	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k06%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k06/)
+14:51:37	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=100
+14:51:37	Warning: 	File has moved from localhost/banhang-vongda/?p=100 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k07/
+14:51:41	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k07%2F (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k07/)
+14:51:41	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k07%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k07/)
+14:51:58	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=102
+14:51:58	Warning: 	File has moved from localhost/banhang-vongda/?p=102 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k08/
+14:51:58	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k08%2F (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k08/)
+14:51:58	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-phong-thuy-k08%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-da-phong-thuy-k08/)
+14:52:11	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=90
+14:52:11	Warning: 	File has moved from localhost/banhang-vongda/?p=90 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-xanh-luc-k1/
+14:52:14	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-xanh-luc-k1%2F (from localhost/banhang-vongda/sản phẩm/vong-da-xanh-luc-k1/)
+14:52:14	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-da-xanh-luc-k1%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-da-xanh-luc-k1/)
+14:52:27	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=130
+14:52:27	Warning: 	File has moved from localhost/banhang-vongda/?p=130 to http://localhost/banhang-vongda/2019/04/26/pho-bi-thu-tinh-bac-kan-duoc-bo-nhiem-lam-thu-truong-bo-nong-nghiep/
+14:52:27	Error: 	"Method Not Allowed" (405) at link localhost/banhang-vongda/xmlrpc.php (from localhost/banhang-vongda/2019/04/26/pho-bi-thu-tinh-bac-kan-duoc-bo-nhiem-lam-thu-truong-bo-nong-nghiep/)
+14:52:27	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=127
+14:52:27	Warning: 	File has moved from localhost/banhang-vongda/?p=127 to http://localhost/banhang-vongda/2019/04/26/thu-tuong-den-bucharest-bat-dau-tham-chinh-thuc-romania/
+14:52:27	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=124
+14:52:27	Warning: 	File has moved from localhost/banhang-vongda/?p=124 to http://localhost/banhang-vongda/2019/04/26/doc-phan-quang-viet-ve-bac-ho/
+14:52:27	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=120
+14:52:27	Warning: 	File has moved from localhost/banhang-vongda/?p=120 to http://localhost/banhang-vongda/2019/04/26/xu-ly-can-bo-da-nghi-huu-them-hinh-thuc-ky-luat-xoa-tu-cach-chuc-vu/
+14:52:27	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=117
+14:52:27	Warning: 	File has moved from localhost/banhang-vongda/?p=117 to http://localhost/banhang-vongda/2019/04/26/thu-tuong-nguyen-xuan-phuc-hoi-kien-chu-tich-ha-vien-romania/
+14:52:27	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=114
+14:52:27	Warning: 	File has moved from localhost/banhang-vongda/?p=114 to http://localhost/banhang-vongda/2019/04/26/vi-sao-khen-thuong-can-bo-lap-cong-khong-khung-nhu-thuong-cau-thu-bong-da/
+14:52:27	Warning: 	Moved Permanently for localhost/banhang-vongda/danh-muc-san-pham/da-quy/page/1/
+14:52:27	Warning: 	File has moved from localhost/banhang-vongda/danh-muc-san-pham/da-quy/page/1/ to http://localhost/banhang-vongda/danh-muc-san-pham/da-quy/
+14:52:27	Warning: 	Moved Permanently for localhost/banhang-vongda/?p=113
+14:52:27	Warning: 	File has moved from localhost/banhang-vongda/?p=113 to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-008/
+14:52:28	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-008%2F (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-008/)
+14:52:28	Error: 	"Not Found" (404) at link localhost/banhang-vongda/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fbanhang-vongda%2Fs%E1%BA%A3n+ph%E1%BA%A9m%2Fvong-go-phong-thuy-008%2F&format=xml (from localhost/banhang-vongda/sản phẩm/vong-go-phong-thuy-008/)
+14:52:34	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-001/
+14:52:34	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-001/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-001/
+14:52:36	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-002/
+14:52:36	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-002/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-002/
+14:52:39	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-003/
+14:52:39	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-003/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-003/
+14:52:40	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-003-2/
+14:52:40	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-003-2/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-003-2/
+14:52:41	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-004/
+14:52:41	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-004/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-004/
+14:52:42	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-005/
+14:52:42	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-005/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-005/
+14:52:43	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-006/
+14:52:43	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-006/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-006/
+14:52:45	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-007/
+14:52:45	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-007/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-007/
+14:52:46	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-004/
+14:52:46	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-004/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-004/
+14:52:49	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k02/
+14:52:49	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k02/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k02/
+14:52:50	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k03/
+14:52:50	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k03/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k03/
+14:52:51	Error: 	"Not Found" (404) at link localhost/banhang-vongda/sảnphẩm/96/ (from localhost/banhang-vongda/?p=96)
+14:52:52	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k06/
+14:52:52	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k06/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k06/
+14:52:53	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k07/
+14:52:53	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k07/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k07/
+14:52:54	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k08/
+14:52:54	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-da-phong-thuy-k08/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-phong-thuy-k08/
+14:52:55	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-da-xanh-luc-k1/
+14:52:55	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-da-xanh-luc-k1/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-da-xanh-luc-k1/
+14:52:55	Warning: 	Moved Permanently for localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-008/
+14:52:55	Warning: 	File has moved from localhost/banhang-vongda/sảnphẩm/vong-go-phong-thuy-008/ to http://localhost/banhang-vongda/s%E1%BA%A3nph%E1%BA%A9m/vong-go-phong-thuy-008/
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 8 seconds : 517 links scanned, 434 files written (26717362 bytes overall) [26963335 bytes received at 24782 bytes/sec], 276289 bytes transferred using HTTP compression in 2 files, ratio 28%, 1.3 requests per connection
+(40 errors, 84 warnings, 0 messages)
